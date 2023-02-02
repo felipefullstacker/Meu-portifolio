@@ -13,6 +13,7 @@
     line-height: 1.125;
     margin-bottom: 30px;
     position: relative;
+
 }
 
 .introducao h1::before {
@@ -31,6 +32,7 @@
     font-size: 1.5rem;
     color: #525252;
 }
+
 
 @media (max-width: 1000px) {
     .introducao h1 {
